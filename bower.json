@@ -1,0 +1,25 @@
+{
+  "name": "domator",
+  "version": "1.0.0",
+  "authors": [
+    "Nanang Mahdaen El Agung <nanang@mahdaen.name>"
+  ],
+  "description": "DOM Automator",
+  "main": "dist/domator.js",
+  "keywords": [
+    "dom",
+    "automator",
+    "automator",
+    "dom",
+    "magic"
+  ],
+  "license": "MIT",
+  "homepage": "https://mahdaen.github.io/domator",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

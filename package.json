@@ -1,0 +1,26 @@
+{
+  "name": "domator",
+  "version": "1.0.0",
+  "description": "DOM Automator",
+  "main": "dist/domator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mahdaen/domator"
+  },
+  "keywords": [
+    "dom",
+    "automator",
+    "dom",
+    "magic",
+    "automator"
+  ],
+  "author": "Nanang Mahdaen El Agung <nanang@mahdaen.name>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mahdaen/domator/issues"
+  },
+  "homepage": "https://github.com/mahdaen/domator"
+}
